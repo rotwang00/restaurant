@@ -1,0 +1,23 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "Landing page for a restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rotwang00/restaurant.git"
+  },
+  "author": "Paul Thurmond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rotwang00/restaurant/issues"
+  },
+  "homepage": "https://github.com/rotwang00/restaurant#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
