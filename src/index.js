@@ -1,2 +1,3 @@
-alert("Yes!");
-console.log("Here also.");
+import { homePage } from "./homePage";
+
+homePage();

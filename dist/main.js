@@ -1,1 +1,1 @@
-alert("Yes!"),console.log("Here also.");
+(()=>{"use strict";!function(){const t=document.getElementById("content"),e=document.createElement("div");e.textContent="Home Menu About Us",t.appendChild(e);const n=document.createElement("h1");n.textContent="I Can Hash Browns?",t.appendChild(n);const o=document.createElement("p");o.textContent="Our family-owned restaurant caters to those who agree with us that hash browns are the perfect food.",t.appendChild(o);const a=document.createElement("div");a.textContent="Phone: Try to avoid calling us",t.appendChild(a)}()})();
